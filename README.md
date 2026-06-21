@@ -7,11 +7,11 @@ This repository contains the official research monograph, architectural layout, 
 ## 📑 Core Research Asset
 
 ### 🔬 Academic Research Paper
-* **Full Paper:** [Download the Complete Research PDF](./Research-Paper.pdf)
+* **Full Paper:** [Access Complete Research PDF](./Research-Paper.pdf)
 * **Presented At:** 2nd International Award Conference on Review, Research and Evaluate (Bangkok, Thailand)
 
 ### 📘 Engineering Project Report
-* **Full Documentation:** [Download Full Project Report PDF](./Project-Report.pdf)
+* **Full Documentation:** [Access Full Project Report PDF](./Project-Report.pdf)
 * **Cap-stone Engineering Report:** Major system design documentation and cryptographic deployment verification framework certified by AKTU University.
 
 ---
