@@ -1,4 +1,4 @@
-# Steganography Technique to "Hide Information within an Image File"
+# "Steganography Technique" to Hide Information within an Image File
 
 This repository contains the official research monograph, architectural layout, and comprehensive step-by-step system implementation documentation for a real-time digital asset encryption framework utilizing an optimized Least Significant Bit (LSB) embedding methodology.
 
